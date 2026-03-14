@@ -1,33 +1,97 @@
-## Hi, I'm Eswaran 👋
+```markdown
+# Hi, I'm David 👋
 
-Welcome to my GitHub profile! Here, you'll find a glimpse of my work, projects, and interests.
+**Flutter Developer (1+ Year Experience)**  
+📍 Madurai, India | Open to Remote Opportunities
 
-## About Me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-- 💼 I work as a Flutter Developer.
-- 🌍 I'm based in India.
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGNosfZAKBBKwAAAYsdOQTwFiruAzkajxDUFAkbr9Y1qrjJR15p6TtQ3T5tzontB6ddfSOzKBeKrH4N-gVo_j8vuCe4-37pA5Tj9HgS9kf5IAqE5k9KSULDLiz4o6bZeuPRGZw=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feswaran-r-a85545235%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app).
-- 📧 You can reach me via email at eswaranr1429@gmail.com.
+---
 
-## Interests
+# 🚀 About Me
 
-Some of the things I'm passionate about:
+- 💼 1+ year experience building mobile applications using Flutter
+- 📱 Experience developing production-ready apps
+- 🔧 Skilled in API integration and backend communication
+- 🔄 Experience working with real-time data and authentication systems
+- 🛠️ Strong understanding of Flutter UI development and app architecture
 
-- 💻 Mobile application development
-- 🚀 Cyber security
-- 🎨 Programming
+---
 
-## Skills
+# ✨ Featured Projects
 
-A snapshot of my skills:
+## Multi-Service Booking App
+Booking platform supporting services like real estate, vehicles, travel, and flights.  
+Includes search, filtering, and API integrations.
 
-- 💻 Programming Languages: JAVA, DART.
-- 🎨 Design: CANVA.
-- 🎨 Database: MongoDb, sql, pl/sql.
-- 📱 Mobile Application Development : Flutter
+**Tech Used**
+- Flutter
+- REST APIs
+- Dio
 
-## Let's Connect
+GitHub: https://github.com/YOUR_USERNAME/project-name
 
-I'm always open to interesting discussions and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGNosfZAKBBKwAAAYsdOQTwFiruAzkajxDUFAkbr9Y1qrjJR15p6TtQ3T5tzontB6ddfSOzKBeKrH4N-gVo_j8vuCe4-37pA5Tj9HgS9kf5IAqE5k9KSULDLiz4o6bZeuPRGZw=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feswaran-r-a85545235%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app) or via email at eswaranr1429@gmail.com. Let's build something great together!
+---
 
-Thanks for visiting my GitHub profile! 😊
+## Ecommerce Platform
+Application supporting multiple user roles such as seller, buyer, transporter, and guarantor.  
+Includes order tracking and transaction handling.
+
+**Tech Used**
+- Flutter
+- Provider / GetX
+- Backend APIs
+
+GitHub: https://github.com/YOUR_USERNAME/project-name
+
+---
+
+## Ticket Management System
+A real-time ticket management system with lifecycle tracking and status updates.
+
+**Tech Used**
+- Flutter
+- Firebase
+- REST APIs
+
+GitHub: https://github.com/YOUR_USERNAME/project-name
+
+---
+
+# 🛠️ Skills
+
+```
+
+Flutter
+Dart
+Firebase
+REST APIs
+Dio
+Provider
+GetX
+MongoDB
+SQL
+Play Store Deployment
+API Integration
+Real-time Applications
+
+```
+
+---
+
+# 📊 GitHub Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: YOUR_EMAIL  
+💼 LinkedIn: YOUR_LINKEDIN  
+🐙 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
+```
