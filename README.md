@@ -35,5 +35,5 @@ Search/Filter | Favorites | Multi-Role Auth | Real-time Updates | Play Store Dep
 ## 📫 Connect With Me
 
   - 📧 Email: eswaranr1429@gmail.com
-  - 💼 LinkedIn: ![LinkedIn](https://www.linkedin.com/in/eswaran-r-a85545235/)
+  - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/eswaran-r-a85545235/)
   - 🐙 GitHub: https://github.com/eswaran1429 
