@@ -4,7 +4,7 @@
 **Flutter Developer (1+ Year Experience)**  
 📍 Madurai, India | Open to Remote Opportunities
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eswaran1429&show_icons=true&theme=radical)
 
 ---
 
@@ -29,8 +29,6 @@ Includes search, filtering, and API integrations.
 - REST APIs
 - Dio
 
-GitHub: https://github.com/YOUR_USERNAME/project-name
-
 ---
 
 ## Ecommerce Platform
@@ -42,8 +40,6 @@ Includes order tracking and transaction handling.
 - Provider / GetX
 - Backend APIs
 
-GitHub: https://github.com/YOUR_USERNAME/project-name
-
 ---
 
 ## Ticket Management System
@@ -53,8 +49,6 @@ A real-time ticket management system with lifecycle tracking and status updates.
 - Flutter
 - Firebase
 - REST APIs
-
-GitHub: https://github.com/YOUR_USERNAME/project-name
 
 ---
 
@@ -81,7 +75,7 @@ Real-time Applications
 
 # 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eswaran1429&layout=compact&theme=radical)
 
 ---
 
@@ -89,7 +83,7 @@ Real-time Applications
 
 📧 Email: YOUR_EMAIL  
 💼 LinkedIn: YOUR_LINKEDIN  
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub: https://github.com/eswaran1429
 
 ---
 
