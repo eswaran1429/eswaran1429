@@ -2,7 +2,7 @@
 
 Flutter Developer from Madurai, India | Building production mobile apps for real-world business needs
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eswaran1429&show_icons=true&theme=radical)
 
 ## 🚀 About Me
 
