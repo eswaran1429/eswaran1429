@@ -8,17 +8,17 @@ Flutter Developer from Tamil Nadu, India | Building production mobile apps for r
 
 - 💼 **Flutter Developer** with Play Store deployments for insurance, multi-service & eCommerce apps
 - 🔧 **Tech Stack**: Dart, Flutter, Firebase (Firestore/Auth), REST APIs, Dio, Provider/GetX
-- 🌍 Based in Madurai, Tamil Nadu
+- 🌍 Based in Tamil Nadu, India.
 - 💪 Passionate about clean code, scalable mobile solutions & fitness
 
 ## ✨ Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Multi-Service Booking Platform** | Real estate, vehicles, accommodations, travel packages, packers & movers, flights with search/filter/favorites | Flutter, REST APIs, Dio |
+| **Multi-Service Booking Platform** | Real estate, vehicles, accommodations, travel packages, packers & movers, flights with search/filter/favorites | Flutter, REST APIs, Dio, Provider |
 | **Ecommerce Application** | Multi-role (Seller/Buyer/Transporter/Guarantor) platform with product mgmt, orders, transactions | Flutter, Provider/GetX, Backend APIs |
 | **Ticket Management System** | Real-time ticket creation/tracking (open/in-progress/closed) with list/filter views | Flutter, Firebase, REST APIs |
-| **Insurance Application** | Comprehensive insurance mobile solution | Flutter, Dart | 
+| **Insurance Application** | Comprehensive insurance mobile solution | Flutter, Dart, Provider | 
 
 ## 🛠️ Skills
 
